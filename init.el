@@ -60,7 +60,7 @@
 
 ;; Set font (fail gracefully if font not found)
 (ignore-errors
-  (set-frame-font "Cascadia Code 13" nil t))
+  (set-frame-font "Cascadia Code 12" nil t))
 
 
 ;; CUA MODE (Windows/Modern Keybindings)
